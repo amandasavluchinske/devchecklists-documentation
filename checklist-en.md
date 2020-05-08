@@ -1,27 +1,73 @@
 ## 1. Allowed markdown syntaxes on Devchecklists:
-  * [ ] Github removes empty spaces when it compiles a markdown file. For a correct visualization of some pieces of code, please access the [raw version](https://raw.githubusercontent.com/vintasoftware/devchecklists-template/master/checklist-en.md) of this file.
-  * [ ] `##` for titles.
-  * [ ] `* [ ]` syntax to create a parent checklist.
-  * [ ] `    * [ ]` syntax to create a second-level checklist.
-  * [ ] `    * E.g.` syntax to create a second-level sample.
-  * [ ] `      * E.g.` syntax to create a third-level sample.
-  * [ ] Syntax for a simple piece of code `This is code`.
-  * [ ] Syntax for code blocks:
-    ```
-    # Code Block:
-	This is a 
-	piece of code 
-	in a block
-    ```
+
+- [ ] Github removes empty spaces when it compiles a markdown file. For a correct visualization of some pieces of code, please access the [raw version](https://raw.githubusercontent.com/vintasoftware/devchecklists-template/master/checklist-en.md) of this file.
+- [ ] `##` for titles.
+- [ ] `* [ ]` syntax to create a parent checklist.
+- [ ] `* [ ]` syntax to create a second-level checklist.
+- [ ] `* E.g.` syntax to create a second-level sample.
+- [ ] `* E.g.` syntax to create a third-level sample.
+- [ ] Syntax for a simple piece of code `This is code`.
+- [ ] Syntax for code blocks:
+  ```
+  # Code Block:
+  This is a
+  piece of code
+  in a block
+  ```
 
 ## 2. Syntaxes to avoid:
-  * [ ] `      * [ ]` third-level checklists.
-  * [ ] `![Alt](/image.png "Image")` images.
-  * [ ] Header syntaxes besides `## Header 2`:
-      ```
-      # Header 1
-      ### Header 3
-      #### Header 4
-      ##### Header 5
-      ###### Header 6 
-      ```
+
+- [ ] `* [ ]` third-level checklists.
+- [ ] `![Alt](/image.png "Image")` images.
+- [ ] Header syntaxes besides `## Header 2`:
+  ```
+  # Header 1
+  ### Header 3
+  #### Header 4
+  ##### Header 5
+  ###### Header 6
+  ```
+
+## Awesome SaaS Product Documentation Checklist
+
+- [ ] If this is the first piece of documentation you're writing, please try to think about structure. Structure is extremely important to ensure users can easily find what they're looking for. You can have the greatest documentation ever, if you don't pair that with a good information structure your users might as well become frustrated as if you didn't have any.
+- E.g. Here are some good links on how to build a good information structure for your docs:
+- E.g. You can also get some inspiration by taking a look at some good product documentations out there:
+- [ ] Make sure you are being objective. You need to maintain readers interested and help them find what they need with ease.
+- [ ] Think about your formatting, it's extremely important! For example, look at how this small change makes the text look much more intelligible:
+- E.g. BAD:
+
+```
+### TIMELINE
+
+In this screen, you can view your timeline, which contains the most relevant Tweets from everyone you follow. You can also interact with these Tweets by: liking them, which you can do by clicking at the heart button in the Tweet's card. It will send a notification out to the writer of the Tweet if your Twitter is set to public, if it's set to private this notification will not be sent, unless the writer of the Tweet follows you. Every time you like a Tweet, it will also appear under your liked Tweets in your profile page. Please note that everyone will be able to see which Tweets you've liked if your Twitter account is set to public. If it's set to private only your followers will be able to see your liked Tweets; retweeting them. You can retweet Tweets by clicking at the two revolving arrows button in the Tweet's card. This will make the retweeted Tweets appear in your own profile, and send out a notification to the Tweet's writer if your Twitter account is set to public. If it's set to private it will not send a notification to the writer unless they follow you; or replying to them...
+
+```
+
+- E.g. GOOD:
+
+```
+
+### TIMELINE
+
+In this screen, you can view your timeline, which contains the most relevant Tweets from everyone you follow. You can also interact with these Tweets in various ways.
+
+1. Liking Tweets:
+   You can like Tweets by clicking at the heart button in the Tweet's card [image here]. If your Twitter account is set to public, it will send a notification out to the writer of the Tweet. If your Twitter account is set to private, this notification will *not* be sent, unless the writer of the Tweet follows you.
+
+   - Liked Tweets:
+    Every time you like a Tweet it will also appear under your Liked Tweets in your profile page. Please note that everyone will be able to see which Tweets you've liked if your Twitter account is set to public. If it's set to private only your followers will be able to see your liked Tweets.
+
+2. Retweeting Tweets:
+  You can retweet Tweets by clicking at the two revolving arrows button in the Tweet's card [image here]. This will make the retweeted Tweets appear in your own profile, and send out a notification to the Tweet's writer if your Twitter account is set to public. If it's set to private it will not send a notification to the writer unless they follow you.
+
+```
+
+- [ ] Ensure you are explaining (relevant) things thoroughly and don't take things for granted. Please keep in mind that you, as a developer or technical writer, are biased.
+- [ ] Reflect about the language you want to use. If your audience is technical, get technical. If your audience is non-technical, don't use technical terms unless needed (and even so, explain them!) and think about what really matters to the reader.
+- [ ] As an extension of the previous topic, make sure you are using language that your reader is accustomed with.
+- E.g. It might be called "profile `title`" in your database, but saying that when the user knows it as "Page name" is inefficient. Be careful not to let these words slip out when writing your docs.
+- [ ] If you find yourself trying to explain a flow that would become extensive like this: `First access the menu by clicking at the gear icon, then navigate to View my profile. After that just click` it might be better to include a GIF recording of the flow along with the text.
+- [ ] Images are underestimated. Humans are visual beings and inserting a picture or a recording of your product along with its textual counterpart will make users better understand what you're meaning to say.
+- [ ] Try to have another person look at your documentation to ensure everything looks good. If it's a good practice to have PR reviews, it's also a good practice to have Documentation reviews!
+- [ ] If you can, run some documentation testing by asking regular people to read your docs and try to use the feature you're writing docs for. Watch them using the product and don't interfere. Observe and write down what they had trouble with and ask them about it in the end. This way you'll be able to identify blind spots in your documentation.
