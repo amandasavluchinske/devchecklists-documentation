@@ -56,6 +56,7 @@ from everyone you follow. You can also interact with these Tweets in various way
 
 ```
 
+- [ ] Think about the product feature's use cases. _List them out and make sure all cases are there._ Having hands-on experience is a huge help, so try all flows out in your system. After that, focus on writing the _consequences_ of each case and their actions.
 - [ ] Ensure you are explaining (relevant) things thoroughly and don't take things for granted. Please keep in mind that you, as a developer or technical writer, are biased.
 - [ ] Reflect about the language you want to use. If your audience is technical, get technical. If your audience is non-technical, don't use technical terms unless needed (and even so, explain them!) and think about what really matters to the reader.
 - [ ] As an extension of the previous topic, make sure you are using language that your reader is accustomed with.
