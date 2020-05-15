@@ -65,3 +65,24 @@ from everyone you follow. You can also interact with these Tweets in various way
 - [ ] Images are underestimated. Humans are visual beings and inserting a picture or a recording of your product along with its textual counterpart will make users better understand what you're meaning to say.
 - [ ] Try to have another person look at your documentation to ensure everything looks good. If it's a good practice to have PR reviews, it's also a good practice to have Documentation reviews!
 - [ ] If you can, run some documentation testing by asking regular people to read your docs and try to use the feature you're writing docs for. Watch them using the product and don't interfere. Observe and write down what they had trouble with and ask them about it in the end. This way you'll be able to identify blind spots in your documentation.
+
+
+Sources:
+
+https://developerhub.io/blog/10-tips-for-structuring-your-product-documentation/
+
+https://documentor.in/2096/create-product-documentation/
+
+https://documentor.in/2148/best-examples-product-documentation-guides/
+
+https://plan.io/blog/technical-documentation/ this one has some good tips on getting feedback for docs.
+
+https://document360.io/blog/saas-product-documentation-software/
+
+http://www.novatekcom.com/blog/bid/379708/6-tips-for-creating-product-documentation-that-talks-to-your-customer
+
+https://www.sitepoint.com/products-documentation-good-enough/
+
+https://www.atlassian.com/software/confluence/documentation
+
+https://userguiding.com/blog/successful-onboarding-ux/
