@@ -64,7 +64,7 @@ from everyone you follow. You can also interact with these Tweets in various way
 
 -------------------------------------------------------------------------
 
-- [ ] Think about the product feature's use cases. _List them out and make sure all cases are there._ Having hands-on experience is a huge help, so try all flows out in your system. After that, focus on writing the _consequences_ of each case and their actions.
+- [ ] Think about the product feature's use cases. **List them out and make sure all cases are there.** Having hands-on experience is a huge help, so try all flows out in your system. After that, focus on writing the _consequences_ of each case and their actions.
 - E.g. It might help you if you write down a list of all actions that can be performed under a certain feature!
 - [ ] Ensure you are explaining (relevant) things thoroughly and don't take things for granted. Please keep in mind that you, as a developer or technical writer, are biased.
 - E.g. Maybe it's obvious to you that by performing a certain action, an email will be sent to certain users. Always explicate these types of behaviors that might seem obvious to you but might not be to the end user.
