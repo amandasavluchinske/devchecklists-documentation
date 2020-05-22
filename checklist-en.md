@@ -69,7 +69,7 @@ from everyone you follow. You can also interact with these Tweets in various way
 - [ ] As an extension of the previous topic, make sure you are using language that your reader is accustomed with.
 - E.g. It might be called "profile `title`" in your database, but saying that when the user knows it as "Page name" is inefficient. Be careful not to let these words slip out when writing your docs.
 - [ ] If you find yourself trying to explain a flow that would become extensive like this: `First access the menu by clicking at the gear icon, then navigate to View my profile. After that just click` it might be better to include a GIF recording of the flow **along with the text**.
-- E.g. "Here's how to change your Twitter username: "
+- E.g. "Here's how to change your Twitter username: In the sidebar menu, click on the 'More' option and navigate to 'Settings and privacy'. Click on 'Account' and proceed to change your username by going under 'Login and security' and clicking on username. Don't forget to save after changing it!"
 ![Changing Twitter username](https://i.imgur.com/bYO1oI9.mp4)
 - [ ] Images are underestimated. Humans are visual beings and inserting a picture or a recording of your product **along with its textual counterpart** will make users better understand what you're meaning to say.
 - [ ] Try to have another person look at your documentation to ensure everything looks good. If it's a good practice to have PR reviews, it's also a good practice to have Documentation reviews!
