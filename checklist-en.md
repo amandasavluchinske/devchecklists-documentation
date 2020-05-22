@@ -12,6 +12,9 @@
    - [ ] [Todoist](https://doist.com/blog/how-to-use-todoist-effectively/) - This is a piece of documentation that focuses on introducing the product to new users. It's clean and straightforward!
 - [ ] Make sure you are being objective. You need to maintain readers interested and help them find what they need with ease.
 - [ ] Think about your formatting, it's extremely important! For example, look at how this small change makes the text look much more intelligible:
+
+-------------------------------------------------------------------------
+
 - E.g. BAD:
 
 ### TIMELINE
@@ -31,6 +34,7 @@ Tweets appear in your own profile, and send out a notification to the Tweet's wr
 if your Twitter account is set to public. If it's set to private it will not send
 a notification to the writer unless they follow you; or replying to them...
 
+-----------------------------------------------------------------------------------
 
 - E.g. GOOD:
 
@@ -58,6 +62,7 @@ from everyone you follow. You can also interact with these Tweets in various way
   Tweet's writer if your Twitter account is set to public. If it's set to private it will not send
   a notification to the writer unless they follow you.
 
+-------------------------------------------------------------------------
 
 - [ ] Think about the product feature's use cases. _List them out and make sure all cases are there._ Having hands-on experience is a huge help, so try all flows out in your system. After that, focus on writing the _consequences_ of each case and their actions.
 - E.g. It might help you if you write down a list of all actions that can be performed under a certain feature!
