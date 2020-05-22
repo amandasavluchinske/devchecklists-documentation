@@ -40,7 +40,7 @@ a notification to the writer unless they follow you; or replying to them...
 In this screen, you can view your timeline, which contains the most relevant Tweets
 from everyone you follow. You can also interact with these Tweets in various ways.
 
-#### Liking Tweets:
+### Liking Tweets:
    You can like Tweets by clicking at the heart button in the Tweet's card [image here].
    If your Twitter account is set to public, it will send a notification out to the writer
    of the Tweet. If your Twitter account is set to private, this notification will *not* be sent,
@@ -52,7 +52,7 @@ from everyone you follow. You can also interact with these Tweets in various way
     Twitter account is set to public. If it's set to private only your followers will be
     able to see your liked Tweets.
 
-#### Retweeting Tweets:
+### Retweeting Tweets:
   You can retweet Tweets by clicking at the two revolving arrows button in the Tweet's card [image here].
   This will make the retweeted Tweets appear in your own profile, and send out a notification to the
   Tweet's writer if your Twitter account is set to public. If it's set to private it will not send
