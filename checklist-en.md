@@ -14,7 +14,6 @@
 - [ ] Think about your formatting, it's extremely important! For example, look at how this small change makes the text look much more intelligible:
 - E.g. BAD:
 
-```
 ### TIMELINE
 
 In this screen, you can view your timeline, which contains the most relevant
@@ -32,11 +31,9 @@ Tweets appear in your own profile, and send out a notification to the Tweet's wr
 if your Twitter account is set to public. If it's set to private it will not send
 a notification to the writer unless they follow you; or replying to them...
 
-```
 
 - E.g. GOOD:
 
-```
 
 ### TIMELINE
 
@@ -61,7 +58,6 @@ from everyone you follow. You can also interact with these Tweets in various way
   Tweet's writer if your Twitter account is set to public. If it's set to private it will not send
   a notification to the writer unless they follow you.
 
-```
 
 - [ ] Think about the product feature's use cases. _List them out and make sure all cases are there._ Having hands-on experience is a huge help, so try all flows out in your system. After that, focus on writing the _consequences_ of each case and their actions.
 - [ ] Ensure you are explaining (relevant) things thoroughly and don't take things for granted. Please keep in mind that you, as a developer or technical writer, are biased.
