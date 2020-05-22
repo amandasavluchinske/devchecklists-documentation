@@ -8,6 +8,7 @@
 - E.g. You can also get some inspiration by taking a look at some good product documentations out there:
    - [ ] [Skype for Windows](https://support.skype.com/en/skype/windows-desktop/) - Notice how clean the docs' structure looks. There are big icons and subtitles that fit the end-users' main concerns.
    - [ ] [Asana](https://asana.com/pt/guide) - Asana itself is pretty self-explanatory and often users only need some exploration time before using their product. Nonetheless, they have a great user documentation structure covering from total newcomers to advanced users looking to achieve more complex tasks. Huge kudos for the amount of videos and images!
+   - [ ] [Todoist](https://doist.com/blog/how-to-use-todoist-effectively/) - This is a piece of documentation that focuses on introducing the product to new users. It's clean and straightforward!
 - [ ] Make sure you are being objective. You need to maintain readers interested and help them find what they need with ease.
 - [ ] Think about your formatting, it's extremely important! For example, look at how this small change makes the text look much more intelligible:
 - E.g. BAD:
