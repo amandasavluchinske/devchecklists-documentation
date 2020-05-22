@@ -2,6 +2,7 @@
 
 - [ ] If this is the first piece of documentation you're writing, please try to think about structure. Structure is extremely important to ensure users can easily find what they're looking for. You can have the greatest documentation ever, if you don't pair that with a good information structure your users might as well become frustrated as if you didn't have any.
 - E.g. Here are some good links on how to build a good information structure for your docs:
+   - [ ] [Best Practices to Improve Knowledge Base Information Architecture](https://document360.io/blog/knowledge-base-information-architecture/)
    - [ ] [9 tips for awesome user documentation (with examples)](https://www.techsmith.com/blog/awesome-user-documentation/)
    - [ ] [How to build the best user documentation](https://www.techsmith.com/blog/user-documentation/)
    - [ ] [4 steps to creating great user documentation](https://formidableforms.com/4-steps-to-creating-great-end-user-documentation/)
@@ -75,15 +76,13 @@ from everyone you follow. You can also interact with these Tweets in various way
 
 Sources:
 
-https://developerhub.io/blog/10-tips-for-structuring-your-product-documentation/
+[10 tips for structuring your product documentation](https://developerhub.io/blog/10-tips-for-structuring-your-product-documentation/)
 
-https://documentor.in/2096/create-product-documentation/
+[12 Best Examples of Product Documentation and Help Guides](https://documentor.in/2148/best-examples-product-documentation-guides/)
 
-https://documentor.in/2148/best-examples-product-documentation-guides/
+[5 Steps to Create Technical Documentation That’s (Actually) Helpful](https://plan.io/blog/technical-documentation/)
 
-https://plan.io/blog/technical-documentation/ this one has some good tips on getting feedback for docs.
-
-https://document360.io/blog/saas-product-documentation-software/
+[Create Killer SaaS Product Documentation for Your Customers](https://document360.io/blog/saas-product-documentation-software/)
 
 http://www.novatekcom.com/blog/bid/379708/6-tips-for-creating-product-documentation-that-talks-to-your-customer
 
