@@ -41,9 +41,11 @@
 
    ### Liking Tweets:
    You can like Tweets by clicking at the heart button in the Tweet's card [image here].
+   
    If your Twitter account is set to public, it will send a notification out to the writer
    of the Tweet. If your Twitter account is set to private, this notification will *not* be sent,
    unless the writer of the Tweet follows you.
+
 
    **Liked Tweets:**
     Every time you like a Tweet it will also appear under your Liked Tweets in your profile
