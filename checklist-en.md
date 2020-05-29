@@ -32,30 +32,30 @@
    if your Twitter account is set to public. If it's set to private it will not send
    a notification to the writer unless they follow you; or replying to them...
 
-- [ ] E.g. GOOD:
+- [ ] GOOD:
 
-      TIMELINE
+   TIMELINE
 
-      In this screen, you can view your timeline, which contains the most relevant Tweets
-      from everyone you follow. You can also interact with these Tweets in various ways.
+   In this screen, you can view your timeline, which contains the most relevant Tweets
+   from everyone you follow. You can also interact with these Tweets in various ways.
 
-      ### Liking Tweets:
-         You can like Tweets by clicking at the heart button in the Tweet's card [image here].
-         If your Twitter account is set to public, it will send a notification out to the writer
-         of the Tweet. If your Twitter account is set to private, this notification will *not* be sent,
-         unless the writer of the Tweet follows you.
+   ### Liking Tweets:
+   You can like Tweets by clicking at the heart button in the Tweet's card [image here].
+   If your Twitter account is set to public, it will send a notification out to the writer
+   of the Tweet. If your Twitter account is set to private, this notification will *not* be sent,
+   unless the writer of the Tweet follows you.
 
-         **Liked Tweets:**
-          Every time you like a Tweet it will also appear under your Liked Tweets in your profile
-          page. Please note that everyone will be able to see which Tweets you've liked if your
-          Twitter account is set to public. If it's set to private only your followers will be
-          able to see your liked Tweets.
+   **Liked Tweets:**
+    Every time you like a Tweet it will also appear under your Liked Tweets in your profile
+    page. Please note that everyone will be able to see which Tweets you've liked if your
+    Twitter account is set to public. If it's set to private only your followers will be
+    able to see your liked Tweets.
 
-      ### Retweeting Tweets:
-        You can retweet Tweets by clicking at the two revolving arrows button in the Tweet's card [image here].
-        This will make the retweeted Tweets appear in your own profile, and send out a notification to the
-        Tweet's writer if your Twitter account is set to public. If it's set to private it will not send
-        a notification to the writer unless they follow you.
+   ### Retweeting Tweets:
+     You can retweet Tweets by clicking at the two revolving arrows button in the Tweet's card [image here].
+     This will make the retweeted Tweets appear in your own profile, and send out a notification to the
+     Tweet's writer if your Twitter account is set to public. If it's set to private it will not send
+     a notification to the writer unless they follow you.
 
 - [ ] Think about the product feature's use cases. **List them out and make sure all cases are there.** Having hands-on experience is a huge help, so try all flows out in your system. After that, focus on writing the _consequences_ of each case and their actions.
 - E.g. It might help you if you write down a list of all actions that can be performed under a certain feature!
