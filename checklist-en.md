@@ -46,8 +46,7 @@
    of the Tweet. If your Twitter account is set to private, this notification will *not* be sent,
    unless the writer of the Tweet follows you.
 
-
-   **Liked Tweets:**
+   #### Liked Tweets:
     Every time you like a Tweet it will also appear under your Liked Tweets in your profile
     page. Please note that everyone will be able to see which Tweets you've liked if your
     Twitter account is set to public. If it's set to private only your followers will be
@@ -60,14 +59,14 @@
      a notification to the writer unless they follow you.
 
 - [ ] Think about the product feature's use cases. **List them out and make sure all cases are there.** Having hands-on experience is a huge help, so try all flows out in your system. After that, focus on writing the _consequences_ of each case and their actions.
-- E.g. It might help you if you write down a list of all actions that can be performed under a certain feature!
+   - [ ] It might help you if you write down a list of all actions that can be performed under a certain feature!
 - [ ] Ensure you are explaining (relevant) things thoroughly and don't take things for granted. Please keep in mind that you, as a developer or technical writer, are biased.
-- E.g. Maybe it's obvious to you that by performing a certain action, an email will be sent to certain users. Always explicate these types of behaviors that might seem obvious to you but might not be to the end user.
+   - [ ] Maybe it's obvious to you that by performing a certain action, an email will be sent to certain users. Always explicate these types of behaviors that might seem obvious to you but might not be to the end user.
 - [ ] Reflect about the language you want to use. If your audience is technical, get technical. If your audience is non-technical, don't use technical terms unless needed (and even so, explain them!) and think about what really matters to the reader.
 - [ ] As an extension of the previous topic, make sure you are using language that your reader is accustomed with.
-- E.g. It might be called "profile `title`" in your database, but saying that when the user knows it as "Page name" is inefficient. Be careful not to let these words slip out when writing your docs.
+   - [ ] It might be called "profile `title`" in your database, but saying that when the user knows it as "Page name" is inefficient. Be careful not to let these words slip out when writing your docs.
 - [ ] If you find yourself trying to explain a flow that would become extensive like this: `First access the menu by clicking at the gear icon, then navigate to View my profile. After that just click` it might be better to include a GIF recording of the flow **along with the text**.
-- E.g. "Here's how to change your Twitter username: In the sidebar menu, click on the 'More' option and navigate to 'Settings and privacy'. Click on 'Account' and proceed to change your username by going under 'Login and security' and clicking on username. Don't forget to save after changing it!"
+   - [ ] "Here's how to change your Twitter username: In the sidebar menu, click on the 'More' option and navigate to 'Settings and privacy'. Click on 'Account' and proceed to change your username by going under 'Login and security' and clicking on username. Don't forget to save after changing it!"
 ![Changing Twitter username](https://i.ibb.co/0KC7FY4/gifntext-gif.gif)
 - [ ] Images are underestimated. Humans are visual beings and inserting a picture or a recording of your product **along with its textual counterpart** will make users better understand what you're meaning to say.
 - [ ] Try to have another person look at your documentation to ensure everything looks good. If it's a good practice to have PR reviews, it's also a good practice to have Documentation reviews!
