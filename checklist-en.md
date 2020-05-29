@@ -73,16 +73,16 @@
 - [ ] If you can, run some documentation testing by asking regular people to read your docs and try to use the feature you're writing docs for. Watch them using the product and don't interfere. Observe and write down what they had trouble with and ask them about it in the end. This way you'll be able to identify blind spots in your documentation.
 
 
-Sources:
+- [ ] Sources:
 
-[Create Killer SaaS Product Documentation for Your Customers](https://document360.io/blog/saas-product-documentation-software/)
+   - [ ] [Create Killer SaaS Product Documentation for Your Customers](https://document360.io/blog/saas-product-documentation-software/)
 
-[Building better documentation](https://www.atlassian.com/software/confluence/documentation)
+   - [ ] [Building better documentation](https://www.atlassian.com/software/confluence/documentation)
 
-[10 tips for structuring your product documentation](https://developerhub.io/blog/10-tips-for-structuring-your-product-documentation/)
+   - [ ] [10 tips for structuring your product documentation](https://developerhub.io/blog/10-tips-for-structuring-your-product-documentation/)
 
-[12 Best Examples of Product Documentation and Help Guides](https://documentor.in/2148/best-examples-product-documentation-guides/)
+   - [ ] [12 Best Examples of Product Documentation and Help Guides](https://documentor.in/2148/best-examples-product-documentation-guides/)
 
-[5 Steps to Create Technical Documentation That’s (Actually) Helpful](https://plan.io/blog/technical-documentation/)
+   - [ ] [5 Steps to Create Technical Documentation That’s (Actually) Helpful](https://plan.io/blog/technical-documentation/)
 
-[6 Tips for Creating Meaningful Product Documentation](http://www.novatekcom.com/blog/bid/379708/6-tips-for-creating-product-documentation-that-talks-to-your-customer)
+   - [ ] [6 Tips for Creating Meaningful Product Documentation](http://www.novatekcom.com/blog/bid/379708/6-tips-for-creating-product-documentation-that-talks-to-your-customer)
