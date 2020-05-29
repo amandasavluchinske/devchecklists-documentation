@@ -15,7 +15,7 @@
 
 - [ ] BAD:
    
-   ## TIMELINE
+   ## Timeline
 
    In this screen, you can view your timeline, which contains the most relevant
    Tweets from everyone you follow. You can also interact with these Tweets by:
@@ -34,7 +34,7 @@
 
 - [ ] GOOD:
 
-   ## TIMELINE
+   ## Timeline
 
    In this screen, you can view your timeline, which contains the most relevant Tweets
    from everyone you follow. You can also interact with these Tweets in various ways.
